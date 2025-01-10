@@ -14,10 +14,10 @@ me = DataEngineer()
 me.say_hi()
 
 ```
-## 🔭 Currently mastering: Databricks, AWS, Python, and Data Engineering
-## 👯 Looking to collaborate on: Cloud-based Data Solutions
-## 🌱 Exploring: DevOps practices and Open Source contributions
-## 💬 Ask me about: Big Data, Cloud Architecture, and ETL Processes
+#### 🔭 Currently mastering: Databricks, AWS, Python, and Data Engineering
+#### 👯 Looking to collaborate on: Cloud-based Data Solutions
+#### 🌱 Exploring: DevOps practices and Open Source contributions
+#### 💬 Ask me about: Big Data, Cloud Architecture, and ETL Processes
 
 
 ## 🌐 Socials:
@@ -32,15 +32,16 @@ me.say_hi()
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aviral-bhardwaj&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aviral-bhardwaj&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+# 🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=aviral-bhardwaj&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Aviral's GitHub Trophies" /> </p>
+
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" /> </p> <p align="center"> <img src="https://visitcount.itsvg.in/api?id=aviral-bhardwaj&icon=0&color=1" alt="Visit Count" /> </p>
 
-
+## 💰 Support My Work
 ---
-[![](https://visitcount.itsvg.in/api?id=aviral-bhardwaj&icon=0&color=1)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/aviralbhardwaj) 
+<p align="center"> <a href="https://paypal.me/aviralbhardwaj"> <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" /> </a> </p> <p align="center">Thank you for visiting my profile! Let's connect and create amazing data solutions together! 🚀</p>
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
