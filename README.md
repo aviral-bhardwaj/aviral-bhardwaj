@@ -14,7 +14,10 @@ me = DataEngineer()
 me.say_hi()
 
 ```
-I am currently working on Databricks,AWS, Python, and Data Engineering<br>I am looking to Collaborate on Databricks,AWS, Python, and Data Engineering<br>I am currently Learning DevOps and Open Source<br>Ask me about Databricks, AWS,Python, and Data Engineering
+🔭 Currently mastering: Databricks, AWS, Python, and Data Engineering
+👯 Looking to collaborate on: Cloud-based Data Solutions
+🌱 Exploring: DevOps practices and Open Source contributions
+💬 Ask me about: Big Data, Cloud Architecture, and ETL Processes
 
 
 ## 🌐 Socials:
