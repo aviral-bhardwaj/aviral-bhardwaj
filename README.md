@@ -14,10 +14,10 @@ me = DataEngineer()
 me.say_hi()
 
 ```
-##🔭 Currently mastering: Databricks, AWS, Python, and Data Engineering
-##👯 Looking to collaborate on: Cloud-based Data Solutions
-##🌱 Exploring: DevOps practices and Open Source contributions
-##💬 Ask me about: Big Data, Cloud Architecture, and ETL Processes
+## 🔭 Currently mastering: Databricks, AWS, Python, and Data Engineering
+## 👯 Looking to collaborate on: Cloud-based Data Solutions
+## 🌱 Exploring: DevOps practices and Open Source contributions
+## 💬 Ask me about: Big Data, Cloud Architecture, and ETL Processes
 
 
 ## 🌐 Socials:
