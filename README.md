@@ -33,9 +33,6 @@ me.say_hi()
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aviral-bhardwaj&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-# 🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=aviral-bhardwaj&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Aviral's GitHub Trophies" /> </p>
-
 ### ✍️ Random Dev Quote
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" /> </p> <p align="center"> <img src="https://visitcount.itsvg.in/api?id=aviral-bhardwaj&icon=0&color=1" alt="Visit Count" /> </p>
 
