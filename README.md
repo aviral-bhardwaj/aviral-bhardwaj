@@ -1,3 +1,23 @@
+# Aviral Bhardwaj Databricks Certificates
+
+Welcome to my collection of Databricks certificates. Below are the certifications I have achieved:
+
+## Certificates
+
+<div style="display: flex; overflow-x: auto; font-size: 0;">
+  <img src="https://raw.githubusercontent.com/aviral-bhardwaj/Aviral_Bhardwaj_Databricks_Certificates/main/DatabricksDataAnalystAssociates.png" alt="Databricks Data Analyst Associates" style="display: block; height: 200px;">
+  <img src="https://raw.githubusercontent.com/aviral-bhardwaj/Aviral_Bhardwaj_Databricks_Certificates/main/DatabricksDataEngineerAssociates.png" alt="Databricks Data Engineer Associates" style="display: block; height: 200px;">
+  <img src="https://raw.githubusercontent.com/aviral-bhardwaj/Aviral_Bhardwaj_Databricks_Certificates/main/DatabricksDataEngineerProfessional.png" alt="Databricks Data Engineer Professional" style="display: block; height: 200px;">
+  <img src="https://raw.githubusercontent.com/aviral-bhardwaj/Aviral_Bhardwaj_Databricks_Certificates/main/DatabricksGenAIFundamental.png" alt="Databricks Generative AI Fundamentals" style="display: block; height: 200px;">
+  <img src="https://raw.githubusercontent.com/aviral-bhardwaj/Aviral_Bhardwaj_Databricks_Certificates/main/DatabricksGenerativeAIAssociates.png" alt="Databricks Generative AI Associates" style="display: block; height: 200px;">
+  <img src="https://raw.githubusercontent.com/aviral-bhardwaj/Aviral_Bhardwaj_Databricks_Certificates/main/DatabricksMachineLearningAssociates.png" alt="Databricks Machine Learning Associates" style="display: block; height: 200px;">
+  <img src="https://raw.githubusercontent.com/aviral-bhardwaj/Aviral_Bhardwaj_Databricks_Certificates/main/DatabricksSparkEngineerPython3.png" alt="Databricks Spark Engineer Python 3" style="display: block; height: 200px;">
+</div>
+
+<div style="font-size: 12px; display: flex; justify-content: space-between; margin-top: 5px;">
+
+</div>
+
 # 💫 About Me:
 
 ```
@@ -20,6 +40,7 @@ me.say_hi()
 #### 💬 Ask me about: Big Data, Cloud Architecture, and ETL Processes
 
 
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aviral.bhardwaj.585) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aviralbhardwaj_ji) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aviralb) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://siraviralbhardwaj.medium.com/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12117162/aviral-bhardwaj) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ardb40)
 
@@ -33,8 +54,10 @@ me.say_hi()
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aviral-bhardwaj&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-### ✍️ Random Dev Quote
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" /> </p> <p align="center"> <img src="https://visitcount.itsvg.in/api?id=aviral-bhardwaj&icon=0&color=1" alt="Visit Count" /> </p>
+
+
+
+
 
 ## 💰 Support My Work
 ---
