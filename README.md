@@ -2,6 +2,7 @@
 
 Welcome to my collection of Databricks certificates. Below are the certifications I have achieved:
 
+
 ## Certificates
 
 <div style="display: flex; overflow-x: auto; font-size: 0;">
