@@ -1,6 +1,6 @@
 # Aviral Bhardwaj Databricks Certificates
 
-Welcome to my collection of Databricks certificates. Below are the certifications I have achieved:
+Welcome to my collection of Databricks certificates. Below are the certifications I have achieved: Also I am founder of OpenSource Project name is Delta Lake Studio , I am still working on it https://deltalakestudio.com/ 
 
 
 ## Certificates
